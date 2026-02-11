@@ -1,0 +1,32 @@
+[2026-02-10 15:27:42]  Starting complete data cleaning pipeline...
+[2026-02-10 15:27:42]  Loading all data sheets...
+[2026-02-10 15:27:42]     Loaded: Website Traffic (19 rows)
+[2026-02-10 15:27:42]     Loaded: Social Media (54 rows)
+[2026-02-10 15:27:42]     Loaded: Email Campaigns (14 rows)
+[2026-02-10 15:27:42]     Loaded: Sales Pipeline (65 rows)
+[2026-02-10 15:27:42]     Loaded: Ad Spend (32 rows)
+[2026-02-10 15:27:42]  Cleaning Website Traffic data...
+[2026-02-10 15:27:42]    Removed 1 duplicate rows
+[2026-02-10 15:27:42]    Fixed 2 bounce rate values (>1)
+[2026-02-10 15:27:42]    Calculated 2 missing conversion rates
+[2026-02-10 15:27:42]     Website Traffic cleaned successfully
+[2026-02-10 15:27:42]  Cleaning Social Media data...
+[2026-02-10 15:27:42]     Social Media cleaned successfully
+[2026-02-10 15:27:42]  Cleaning Email Campaigns data...
+[2026-02-10 15:27:42]    Filled 5 missing revenue values with 0
+[2026-02-10 15:27:42]     Email Campaigns cleaned successfully
+[2026-02-10 15:27:42]  Cleaning Sales Pipeline data...
+[2026-02-10 15:27:42]    Inferred 9 missing emails
+[2026-02-10 15:27:42]     Sales Pipeline cleaned successfully
+[2026-02-10 15:27:42]  Cleaning Ad Spend data...
+[2026-02-10 15:27:42]    Calculated 3 missing cost per conversion values
+[2026-02-10 15:27:42]     Ad Spend cleaned successfully
+[2026-02-10 15:27:42]  Calculating KPIs...
+[2026-02-10 15:27:42]     KPIs calculated successfully
+[2026-02-10 15:27:42]  Saving cleaned data to '3_Cleaned_Data'...
+[2026-02-10 15:27:42]     Saved Website_Traffic_Clean.csv
+[2026-02-10 15:27:42]     Saved Social_Media_Clean.csv
+[2026-02-10 15:27:42]     Saved Email_Campaigns_Clean.csv
+[2026-02-10 15:27:42]     Saved Sales_Pipeline_Clean.csv
+[2026-02-10 15:27:42]     Saved Ad_Spend_Clean.csv
+[2026-02-10 15:27:42]     Saved ml_insights.json

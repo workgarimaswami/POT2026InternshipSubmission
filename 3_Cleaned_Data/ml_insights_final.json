@@ -1,0 +1,334 @@
+{
+  "website": {
+    "total_sessions": 40528,
+    "total_conversions": 714,
+    "source_analysis": {
+      "Sessions": {
+        "email": 4197,
+        "google_ads": 10668,
+        "linkedin": 2013,
+        "linkedin_ads": 8153,
+        "organic": 4537,
+        "referral": 7934,
+        "twitter": 3026
+      },
+      "Ticket Inquiry Conversions": {
+        "email": 90,
+        "google_ads": 197,
+        "linkedin": 48,
+        "linkedin_ads": 133,
+        "organic": 46,
+        "referral": 149,
+        "twitter": 51
+      },
+      "conversion_rate": {
+        "email": 2.14,
+        "google_ads": 1.85,
+        "linkedin": 2.38,
+        "linkedin_ads": 1.63,
+        "organic": 1.01,
+        "referral": 1.88,
+        "twitter": 1.69
+      }
+    }
+  },
+  "social": {
+    "platform_stats": {
+      "Impressions": {
+        "Instagram": 212757,
+        "LinkedIn": 946396,
+        "Twitter": 1719290
+      },
+      "Engagements": {
+        "Instagram": 12630,
+        "LinkedIn": 42439,
+        "Twitter": 28203
+      },
+      "Link Clicks": {
+        "Instagram": 1937.0,
+        "LinkedIn": 5247.0,
+        "Twitter": 5040.0
+      }
+    },
+    "best_platform": "Instagram",
+    "total_impressions": 2878443,
+    "total_clicks": 12224
+  },
+  "email": {
+    "total_conversions": 83,
+    "total_revenue": 274500.0,
+    "avg_open_rate": 143200.0,
+    "avg_ctr": 22735.7
+  },
+  "ads": {
+    "platform_stats": {
+      "Budget (EUR)": {
+        "Google Ads": 11477,
+        "LinkedIn Ads": 15467
+      },
+      "Conversions": {
+        "Google Ads": 425,
+        "LinkedIn Ads": 25
+      },
+      "Impressions": {
+        "Google Ads": 544895,
+        "LinkedIn Ads": 212334
+      },
+      "Clicks": {
+        "Google Ads": 12905,
+        "LinkedIn Ads": 1497
+      },
+      "cpa": {
+        "Google Ads": 27.0,
+        "LinkedIn Ads": 618.68
+      },
+      "cpc": {
+        "Google Ads": 0.89,
+        "LinkedIn Ads": 10.33
+      }
+    },
+    "best_platform": "Google Ads",
+    "total_spend": 26944.0,
+    "total_ad_conversions": 450
+  },
+  "roi_analysis": {
+    "channel_data": {
+      "Google Display Retargeting": {
+        "spend": 1900.0,
+        "conversions": 297,
+        "estimated_revenue": 1485000.0,
+        "roi": 781.58,
+        "cpa": 6.4
+      },
+      "Google Brand Search": {
+        "spend": 4092.0,
+        "conversions": 21,
+        "estimated_revenue": 105000.0,
+        "roi": 25.66,
+        "cpa": 194.86
+      },
+      "Google Competitor Keywords": {
+        "spend": 3017.0,
+        "conversions": 29,
+        "estimated_revenue": 145000.0,
+        "roi": 48.06,
+        "cpa": 104.03
+      },
+      "Google YouTube Pre-Roll": {
+        "spend": 2468.0,
+        "conversions": 78,
+        "estimated_revenue": 390000.0,
+        "roi": 158.02,
+        "cpa": 31.64
+      },
+      "LinkedIn C-Suite Targeting": {
+        "spend": 6019.0,
+        "conversions": 9,
+        "estimated_revenue": 45000.0,
+        "roi": 7.48,
+        "cpa": 668.78
+      },
+      "LinkedIn Retargeting Website Visitors": {
+        "spend": 1987.0,
+        "conversions": 8,
+        "estimated_revenue": 40000.0,
+        "roi": 20.13,
+        "cpa": 248.38
+      },
+      "LinkedIn Crypto Executives": {
+        "spend": 4373.0,
+        "conversions": 4,
+        "estimated_revenue": 20000.0,
+        "roi": 4.57,
+        "cpa": 1093.25
+      },
+      "Email Campaigns": {
+        "spend": 5000,
+        "conversions": 83,
+        "estimated_revenue": 274500.0,
+        "roi": 54.9,
+        "cpa": 60.24
+      },
+      "Website Organic": {
+        "spend": 2000,
+        "conversions": 714,
+        "estimated_revenue": 2142000.0,
+        "roi": 1071.0,
+        "cpa": 2.8
+      },
+      "Social Media": {
+        "spend": 3000,
+        "conversions": 611.0,
+        "estimated_revenue": 1528000.0,
+        "roi": 509.33,
+        "cpa": 4.91
+      }
+    },
+    "best_channel": "Website Organic",
+    "best_roi": 1071.0,
+    "worst_channel": "LinkedIn Crypto Executives",
+    "worst_roi": 4.57,
+    "average_roi": 268.07
+  },
+  "conversion_analysis": {
+    "by_source": {
+      "Referral": {
+        "conversion_rate": 32.4,
+        "total_deals": 12,
+        "won_deals": 4
+      },
+      "Email Campaign": {
+        "conversion_rate": 21.6,
+        "total_deals": 8,
+        "won_deals": 2
+      },
+      "LinkedIn Outreach": {
+        "conversion_rate": 15.2,
+        "total_deals": 33,
+        "won_deals": 5
+      },
+      "Website Inquiry": {
+        "conversion_rate": 11.8,
+        "total_deals": 34,
+        "won_deals": 4
+      },
+      "Conference Meeting": {
+        "conversion_rate": 9.5,
+        "total_deals": 21,
+        "won_deals": 2
+      },
+      "Cold Outreach": {
+        "conversion_rate": 0.0,
+        "total_deals": 8,
+        "won_deals": 0
+      }
+    },
+    "overall_rate": 17.8,
+    "total_closed": 107,
+    "total_won": 19
+  },
+  "forecast": {
+    "current_delegates": 0,
+    "current_sponsors": 0,
+    "delegate_target": 300,
+    "sponsor_target": 25,
+    "delegate_forecast": 0.0,
+    "sponsor_forecast": 0.0,
+    "delegate_gap": 300.0,
+    "sponsor_gap": 25.0,
+    "monthly_growth_rate": 15.0,
+    "monthly_predictions": [
+      {
+        "month": 1,
+        "delegates": 0,
+        "sponsors": 0
+      },
+      {
+        "month": 2,
+        "delegates": 0,
+        "sponsors": 0
+      },
+      {
+        "month": 3,
+        "delegates": 0,
+        "sponsors": 0
+      },
+      {
+        "month": 4,
+        "delegates": 0,
+        "sponsors": 0
+      }
+    ],
+    "on_track_delegates": false,
+    "on_track_sponsors": false
+  },
+  "hidden_insights": {
+    "stuck_deals_count": 0,
+    "stuck_deals_value": 0.0,
+    "common_blockers": {},
+    "high_value_low_conv_sources": [],
+    "monthly_trend": {}
+  },
+  "kpis": {
+    "overall_cpa": 75.0,
+    "total_marketing_spend": 15000,
+    "total_conversions": 200,
+    "current_delegates": 0,
+    "current_sponsors": 0,
+    "delegate_target": 300,
+    "sponsor_target": 25,
+    "delegate_forecast": 0.0,
+    "sponsor_forecast": 0.0,
+    "delegate_progress": 0.0,
+    "sponsor_progress": 0.0,
+    "overall_conversion_rate": 17.8,
+    "total_closed_deals": 107,
+    "total_won_deals": 19,
+    "average_roi": 268.07,
+    "best_channel_roi": 1071.0,
+    "worst_channel_roi": 4.57,
+    "stuck_deals_count": 0,
+    "stuck_deals_value": 0.0
+  },
+  "recommendations": [
+    {
+      "title": "Reallocate budget from LinkedIn Crypto Executives to Website Organic",
+      "details": "LinkedIn Crypto Executives has ROI of 4.6x vs Website Organic's 1071.0x. Shift \u20ac15,000 budget to achieve 72 additional conversions.",
+      "priority": "Critical",
+      "impact": "High",
+      "timeline": "By February 28, 2026",
+      "owner": "Marketing Director"
+    },
+    {
+      "title": "Launch VIP referral program targeting Referral leads",
+      "details": "Referral leads convert at 32.4% vs average 17.8%. Offer 15% discount for successful referrals.",
+      "priority": "High",
+      "impact": "Medium",
+      "timeline": "Launch by March 15, 2026",
+      "owner": "Sales Director"
+    },
+    {
+      "title": "Execute 'Last Chance' pipeline rescue campaign",
+      "details": "0 deals worth \u20ac0 stuck >30 days. Implement CEO-to-CEO outreach with limited-time incentives.",
+      "priority": "High",
+      "impact": "High",
+      "timeline": "2-week sprint starting February 17",
+      "owner": "CEO/Head of Sales"
+    },
+    {
+      "title": "Accelerate acquisition with time-bound promotions",
+      "details": "Need 300 more delegates and 25 more sponsors. Launch 'Early March' promotion with 10% discount for signups before March 15.",
+      "priority": "High",
+      "impact": "Medium",
+      "timeline": "March 1-15, 2026",
+      "owner": "Marketing & Sales Teams"
+    },
+    {
+      "title": "Implement weekly performance review dashboard",
+      "details": "Create automated dashboard with real-time KPIs for Monday leadership meetings. Track: leads, conversion rate, pipeline value, stuck deals.",
+      "priority": "Medium",
+      "impact": "High",
+      "timeline": "Ongoing starting February 24",
+      "owner": "Data Analyst (This Role)"
+    }
+  ],
+  "metadata": {
+    "analysis_date": "2026-02-10 17:07:34",
+    "analyst": "Garima Swami",
+    "data_sources_analyzed": [
+      "Website",
+      "Social Media",
+      "Email",
+      "Sales",
+      "Ads"
+    ],
+    "analysis_type": "Adaptive Comprehensive Analysis with Forecasting",
+    "chart_files_generated": [
+      "roi_by_channel.png",
+      "conversion_by_source.png",
+      "progress_toward_targets.png",
+      "stuck_deals_analysis.png",
+      "monthly_forecast.png"
+    ]
+  }
+}

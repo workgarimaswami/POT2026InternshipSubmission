@@ -1,0 +1,179 @@
+{
+  "roi_analysis": {
+    "channel_data": {
+      "Google Ads": {
+        "spend": 15000,
+        "revenue": 45000,
+        "roi": 2.0,
+        "cpa": 120
+      },
+      "LinkedIn Ads": {
+        "spend": 12000,
+        "revenue": 18000,
+        "roi": 0.5,
+        "cpa": 350
+      },
+      "Email Marketing": {
+        "spend": 5000,
+        "revenue": 25000,
+        "roi": 4.0,
+        "cpa": 80
+      },
+      "Social Media": {
+        "spend": 3000,
+        "revenue": 9000,
+        "roi": 2.0,
+        "cpa": 150
+      },
+      "Referral Program": {
+        "spend": 2000,
+        "revenue": 15000,
+        "roi": 6.5,
+        "cpa": 50
+      }
+    },
+    "best_channel": "Referral Program",
+    "worst_channel": "LinkedIn Ads",
+    "best_roi": 6.5,
+    "worst_roi": 0.5
+  },
+  "conversion_analysis": {
+    "by_source": {
+      "Referral": {
+        "conversion_rate": 50.0,
+        "total_deals": 2,
+        "won_deals": 1,
+        "avg_deal_value": 46682.0
+      },
+      "Email Campaign": {
+        "conversion_rate": 33.33,
+        "total_deals": 6,
+        "won_deals": 2,
+        "avg_deal_value": 38483.0
+      },
+      "Linkedin Outreach": {
+        "conversion_rate": 50.0,
+        "total_deals": 2,
+        "won_deals": 1,
+        "avg_deal_value": 6338.0
+      },
+      "Website Inquiry": {
+        "conversion_rate": 33.33,
+        "total_deals": 3,
+        "won_deals": 1,
+        "avg_deal_value": 2735.0
+      },
+      "Linkedin": {
+        "conversion_rate": 100.0,
+        "total_deals": 3,
+        "won_deals": 3,
+        "avg_deal_value": 32701.67
+      },
+      "Inbound - Website": {
+        "conversion_rate": 0.0,
+        "total_deals": 1,
+        "won_deals": 0,
+        "avg_deal_value": 0
+      },
+      "Past Attendee": {
+        "conversion_rate": 100.0,
+        "total_deals": 1,
+        "won_deals": 1,
+        "avg_deal_value": 1785.0
+      },
+      "Conference Meeting": {
+        "conversion_rate": 100.0,
+        "total_deals": 1,
+        "won_deals": 1,
+        "avg_deal_value": 6979.0
+      },
+      "Website": {
+        "conversion_rate": 0.0,
+        "total_deals": 1,
+        "won_deals": 0,
+        "avg_deal_value": 0
+      },
+      "Cold Outreach": {
+        "conversion_rate": 100.0,
+        "total_deals": 1,
+        "won_deals": 1,
+        "avg_deal_value": 2175.0
+      }
+    },
+    "overall_rate": 52.38,
+    "best_source": "Linkedin",
+    "worst_source": "Inbound - Website"
+  },
+  "forecast": {
+    "monthly_predictions": [
+      10.3,
+      11.9,
+      13.7,
+      15.7
+    ],
+    "total_forecast": 51.7,
+    "delegate_forecast": 28.7,
+    "sponsor_forecast": 23.0,
+    "current_delegates": 5,
+    "current_sponsors": 4,
+    "model_accuracy_mae": 0,
+    "model_accuracy_r2": 0
+  },
+  "hidden_insights": {
+    "stuck_deals_count": 40,
+    "stuck_deals_value": 666200.0,
+    "primary_insight": "Found 40 deals stuck for >30 days with total value 666,200"
+  },
+  "recommendations": [
+    {
+      "title": "Reallocate budget from LinkedIn Ads to Referral Program",
+      "details": "Shift 15,000 from LinkedIn Ads to Referral Program. Expected impact: +72 conversions, +340k pipeline.",
+      "priority": "High",
+      "timeline": "Within 2 weeks",
+      "impact": "High"
+    },
+    {
+      "title": "Launch targeted campaign for Linkedin leads",
+      "details": "Linkedin leads convert at highest rate. Create personalized follow-up sequence.",
+      "priority": "Medium",
+      "timeline": "Within 1 week",
+      "impact": "Medium"
+    },
+    {
+      "title": "Rescue stuck pipeline",
+      "details": "40 deals worth 666,200 stuck for >30 days.",
+      "priority": "Critical",
+      "timeline": "Within 3 days",
+      "impact": "High"
+    },
+    {
+      "title": "Accelerate acquisition to hit June targets",
+      "details": "Projected gap: 271 delegates, 2 sponsors.",
+      "priority": "High",
+      "timeline": "Immediate",
+      "impact": "High"
+    },
+    {
+      "title": "Implement automated weekly reporting",
+      "details": "Create automated dashboard with real-time metrics.",
+      "priority": "Medium",
+      "timeline": "Within 1 month",
+      "impact": "Medium"
+    }
+  ],
+  "metadata": {
+    "analysis_date": "2026-02-10 15:52:31",
+    "analyst": "Garima Swami",
+    "data_sources": [
+      "Website Traffic",
+      "Social Media",
+      "Email Campaigns",
+      "Sales Pipeline",
+      "Ad Spend"
+    ],
+    "ml_models_used": [
+      "Statistical Analysis",
+      "Trend Forecasting"
+    ]
+  }
+}

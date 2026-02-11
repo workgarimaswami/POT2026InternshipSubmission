@@ -1,0 +1,66 @@
+Deal ID,Company Name,Contact Name,Contact Email,Lead Source,Ticket Type,Deal Stage,Deal Value (EUR),First Contact Date,Last Activity Date,Expected Close Date,Notes
+POT-2026-001,Ledger Enterprise,M. Chen,chen@ledgerenterp.com,Referral,Sponsor - Gold,Closed Lost,35137.0,2025-10-16,2025-10-28,2025-10-28,
+POT-2026-002,BNP Paribas DeFi,A. Müller,müller@bnpparibasde.com,Linkedin Outreach,Sponsor - Gold,Contacted,37636.0,2025-10-30,2025-11-11,2025-12-17,"Very engaged, quick responses"
+POT-2026-003,BNP Paribas DeFi,G. Costa,costa@bnpparibasde.com,Past Attendee,Delegate,Lead,3156.0,2025-11-20,2025-12-12,2025-12-22,"Slow to respond, follow up needed"
+POT-2026-004,Delphi Digital,P. Johansson,johansson@delphidigita.com,Past Attendee,Sponsor - Gold,Negotiation,37657.0,2025-11-13,2025-12-19,2026-01-03,Needs board approval
+POT-2026-005,BNP Paribas DeFi,D. Okafor,okafor@bnpparibasde.com,Inbound - Website,Sponsor - Gold,Contacted,30825.0,2025-11-19,2025-12-06,2026-01-13,"Slow to respond, follow up needed"
+POT-2026-006,Meta AI Labs,R. Al-Rashid,r.@meta.com,Email Campaign,Sponsor - Gold,Contacted,47847.0,2025-10-11,2025-10-17,2025-11-08,"Slow to respond, follow up needed"
+POT-2026-007,HTX Ventures,E. Santos,santos@htxventures.com,Conference Meeting,Sponsor - Gold,Lead,42458.0,2025-12-17,2025-12-20,2025-12-31,Interested in premium networking opportunities
+POT-2026-008,a16z Crypto,N. Dubois,dubois@a16zcrypto.com,Email Campaign,Vip Delegate,Closed Lost,7127.0,2025-12-17,2025-12-28,2025-12-28,Comparing with TOKEN2049 sponsorship
+POT-2026-009,Meta AI Labs,V. Popov,popov@metaailabs.com,Linkedin Outreach,Delegate,Proposal Sent,3240.0,2025-11-17,2025-12-25,2026-01-16,Needs board approval
+POT-2026-010,Optimism Foundation,M. Chen,chen@optimismfoun.com,Website,Media Pass,Contacted,284.0,2025-11-28,2025-12-05,2026-01-02,"Slow to respond, follow up needed"
+POT-2026-011,PwC Digital,M. Chen,chen@pwcdigital.com,Referral,Delegate,Negotiation,2003.0,2025-10-12,2025-10-18,2025-11-07,
+POT-2026-012,Avalanche Labs,V. Popov,popov@avalanchelab.com,Linkedin Outreach,Sponsor,Lead,20764.0,2025-11-24,2025-12-14,2026-01-20,Needs board approval
+POT-2026-013,Avalanche Labs,E. Santos,santos@avalanchelab.com,Linkedin Outreach,Sponsor - Gold,Closed Lost,28379.0,2026-01-19,2026-01-31,2026-01-31,Interested in speaking slot + sponsor package
+POT-2026-014,McKinsey Blockchain,P. Johansson,johansson@mckinseybloc.com,Referral,Delegate,Qualified,1836.0,2025-11-28,2025-12-13,2025-12-23,Interested in premium networking opportunities
+POT-2026-015,Binance Labs,H. Weber,h.@binance.com,Linkedin,Delegate,Qualified,3566.0,2025-12-06,2025-12-21,2026-01-02,Met at Davos 2025
+POT-2026-016,Swiss Crypto AG,K. Tanaka,k.@swiss.com,Conference Meeting,Delegate,Qualified,1584.0,2025-12-06,2026-01-02,2026-02-13,"Very engaged, quick responses"
+POT-2026-017,GSR Markets,E. Santos,santos@gsrmarkets.com,Website Inquiry,Media Pass,Qualified,372.0,2025-11-09,2025-12-07,2025-12-18,Needs board approval
+POT-2026-018,HTX Ventures,K. Tanaka,tanaka@htxventures.com,Website Inquiry,Sponsor - Gold,Closed Lost,27036.0,2025-10-29,2025-11-25,2025-11-25,
+POT-2026-019,Circle Financial,M. Chen,m.@circle.com,Conference Meeting,Delegate,Contacted,4315.0,2025-11-15,2025-12-30,2026-02-16,Budget approval pending
+POT-2026-020,Fireblocks,L. Bernard,bernard@fireblocks.com,Linkedin,Delegate,Contacted,1775.0,2025-10-04,2025-11-07,2025-12-23,Interested in premium networking opportunities
+POT-2026-021,Optimism Foundation,K. Tanaka,tanaka@optimismfoun.com,Website,Media Pass,Negotiation,299.0,2025-11-06,2025-12-09,2026-02-04,Comparing with TOKEN2049 sponsorship
+POT-2026-022,Taurus Group,F. Rossi,rossi@taurusgroup.com,Linkedin,Sponsor - Platinum,Closed Won,85667.0,2025-11-30,2025-12-07,2025-12-07,Needs board approval
+POT-2026-023,HTX Ventures,H. Weber,weber@htxventures.com,Linkedin,Speaker,Contacted,0.0,2026-01-01,2026-01-31,2026-02-17,Comparing with TOKEN2049 sponsorship
+POT-2026-024,21Shares,I. Andersson,andersson@21shares.com,Referral,Vip Delegate,Qualified,6021.0,2025-12-14,2026-01-03,2026-01-28,Wants to meet sovereign wealth fund attendees
+POT-2026-025,DWF Labs,L. Bernard,bernard@dwflabs.com,Inbound - Website,Sponsor,Negotiation,43271.0,2025-10-13,2025-11-05,2025-12-17,Referred by past speaker
+POT-2026-026,Avalanche Labs,S. Patel,patel@avalanchelab.com,Email Campaign,Speaker,Negotiation,0.0,2025-10-09,2025-11-15,2025-12-05,Decision expected mid-Feb
+POT-2026-027,Pantera Capital,D. Okafor,okafor@panteracapit.com,Inbound - Website,Sponsor - Gold,Closed Lost,43274.0,2025-12-15,2025-12-30,2025-12-30,Wants to meet sovereign wealth fund attendees
+POT-2026-028,SBI Holdings,E. Santos,santos@sbiholdings.com,Referral,Media Pass,Negotiation,424.0,2025-12-30,2026-01-11,2026-02-03,"Slow to respond, follow up needed"
+POT-2026-029,KPMG Crypto,J. Smith,smith@kpmgcrypto.com,Email Campaign,Sponsor - Silver,Lead,18689.0,2025-10-01,2025-11-09,2025-12-15,Previously attended POT 2024
+POT-2026-030,Swiss Crypto AG,J. Smith,smith@swisscryptoa.com,Email Campaign,Sponsor - Silver,Qualified,19845.0,2025-12-29,2026-01-31,2026-03-20,Previously attended POT 2024
+POT-2026-031,Aave Foundation,T. Nakamura,t.@aave.com,Linkedin,Sponsor - Silver,Closed Won,12438.0,2025-11-27,2025-12-20,2025-12-20,Wants to meet sovereign wealth fund attendees
+POT-2026-032,BCG Digital,R. Al-Rashid,al-rashid@bcgdigital.com,Email Campaign,Sponsor - Platinum,Closed Won,76881.0,2025-11-22,2025-12-23,2025-12-23,Needs board approval
+POT-2026-033,TechCrunch Media,D. Okafor,okafor@techcrunchme.com,Inbound - Website,Media Pass,Proposal Sent,467.0,2025-10-15,2025-11-21,2025-12-06,Interested in speaking slot + sponsor package
+POT-2026-034,EY Blockchain,W. Zhang,zhang@eyblockchain.com,Referral,Sponsor,Qualified,47770.0,2025-10-12,2025-11-05,2025-11-27,Interested in speaking slot + sponsor package
+POT-2026-035,Anthropic Partners,P. Johansson,johansson@anthropicpar.com,Website Inquiry,Delegate,Closed Won,2735.0,2025-10-26,2025-11-20,2025-11-20,Interested in speaking slot + sponsor package
+POT-2026-036,Ledger Enterprise,E. Santos,santos@ledgerenterp.com,Email Campaign,Sponsor - Gold,Lead,39134.0,2026-01-04,2026-01-31,2026-02-17,Wants to meet sovereign wealth fund attendees
+POT-2026-037,Paradigm,H. Weber,weber@paradigm.com,Past Attendee,Delegate,Closed Won,1785.0,2026-01-13,2026-01-31,2026-01-31,Needs board approval
+POT-2026-038,Meta AI Labs,F. Rossi,rossi@metaailabs.com,Email Campaign,Sponsor - Platinum,Closed Lost,99960.0,2025-12-13,2026-01-03,2026-01-03,Previously attended POT 2024
+POT-2026-039,EY Blockchain,N. Dubois,dubois@eyblockchain.com,Website Inquiry,Sponsor - Gold,Closed Lost,45990.0,2026-01-28,2026-01-31,2026-01-31,
+POT-2026-040,Nomura Digital,P. Johansson,johansson@nomuradigita.com,Linkedin,Sponsor - Silver,Qualified,21135.0,2025-12-30,2026-01-05,2026-02-13,Interested in premium networking opportunities
+POT-2026-041,Wintermute Trading,H. Weber,weber@wintermutetr.com,Website Inquiry,Sponsor,Negotiation,33712.0,2025-10-24,2025-10-25,2025-11-19,Interested in speaking slot + sponsor package
+POT-2026-042,Messari Analytics,S. Patel,patel@messarianaly.com,Inbound - Website,Delegate,Qualified,3992.0,2025-12-15,2026-01-17,2026-02-23,Referred by past speaker
+POT-2026-043,BNP Paribas DeFi,B. Larsen,larsen@bnpparibasde.com,Linkedin Outreach,Vip Delegate,Closed Won,6338.0,2025-10-27,2025-12-11,2025-12-11,Previously attended POT 2024
+POT-2026-044,Delphi Digital,R. Al-Rashid,al-rashid@delphidigita.com,Linkedin Outreach,Vip Delegate,Contacted,5354.0,2026-01-14,2026-01-17,2026-01-24,Budget approval pending
+POT-2026-045,PwC Digital,C. Kim,c.@pwc.com,Inbound - Website,Media Pass,Negotiation,177.0,2026-01-23,2026-01-31,2026-03-18,
+POT-2026-046,Anthropic Partners,L. Bernard,bernard@anthropicpar.com,Website Inquiry,Sponsor - Gold,Negotiation,47309.0,2025-10-17,2025-10-25,2025-12-08,Referred by past speaker
+POT-2026-047,EY Blockchain,I. Andersson,andersson@eyblockchain.com,Conference Meeting,Vip Delegate,Closed Won,6979.0,2026-01-17,2026-01-31,2026-01-31,Decision expected mid-Feb
+POT-2026-048,CoinDesk Ventures,E. Santos,santos@coindeskvent.com,Conference Meeting,Speaker,Contacted,0.0,2025-10-18,2025-11-13,2025-12-02,Comparing with TOKEN2049 sponsorship
+POT-2026-049,Arbitrum DAO,A. Müller,müller@arbitrumdao.com,Cold Outreach,Media Pass,Lead,441.0,2025-11-18,2025-12-09,2026-01-11,
+POT-2026-050,Wintermute Trading,V. Popov,popov@wintermutetr.com,Email Campaign,Sponsor - Silver,Closed Lost,15077.0,2025-12-10,2025-12-26,2025-12-26,Decision expected mid-Feb
+POT-2026-051,Multicoin Capital,W. Zhang,zhang@multicoincap.com,Cold Outreach,Sponsor - Silver,Contacted,12080.0,2026-01-17,2026-01-31,2026-02-07,
+POT-2026-052,KPMG Crypto,D. Okafor,okafor@kpmgcrypto.com,Linkedin Outreach,Sponsor,Contacted,43986.0,2025-12-22,2026-01-22,2026-02-02,Interested in speaking slot + sponsor package
+POT-2026-053,Circle Financial,T. Nakamura,nakamura@circlefinanc.com,Website,Delegate,Proposal Sent,2282.0,2025-11-27,2025-12-19,2025-12-31,
+POT-2026-054,Polygon Ventures,L. Bernard,l.@polygon.com,Website,Sponsor - Platinum,Qualified,97965.0,2025-12-02,2025-12-26,2026-02-24,Budget approval pending
+POT-2026-055,Chainlink Labs,D. Okafor,okafor@chainlinklab.com,Email Campaign,Media Pass,Closed Won,85.0,2026-01-28,2026-01-31,2026-01-31,Wants to meet sovereign wealth fund attendees
+POT-2026-056,StarkWare,R. Al-Rashid,al-rashid@starkware.com,Website,Delegate,Closed Lost,3901.0,2025-10-23,2025-10-29,2025-10-29,Interested in speaking slot + sponsor package
+POT-2026-057,Optimism Foundation,B. Larsen,larsen@optimismfoun.com,Inbound - Website,Media Pass,Contacted,109.0,2025-12-13,2026-01-03,2026-01-25,Interested in speaking slot + sponsor package
+POT-2026-058,BCG Digital,S. Patel,s.@bcg.com,Linkedin,Speaker,Closed Won,0.0,2025-10-18,2025-11-03,2025-11-03,Decision expected mid-Feb
+POT-2026-059,Avalanche Labs,E. Santos,santos@avalanchelab.com,Referral,Sponsor - Gold,Closed Won,46682.0,2025-10-11,2025-11-19,2025-11-19,Previously attended POT 2024
+POT-2026-060,OpenAI Ventures,M. Chen,chen@openaiventur.com,Website,Sponsor - Silver,Qualified,21268.0,2026-01-25,2026-01-31,2026-03-25,Comparing with TOKEN2049 sponsorship
+POT-2026-061,Circle Financial,L. Bernard,bernard@circlefinanc.com,Website Inquiry,Media Pass,Proposal Sent,31.0,2025-12-05,2025-12-09,2026-01-18,
+POT-2026-062,Pantera Capital,E. Santos,santos@panteracapit.com,Cold Outreach,Delegate,Closed Won,2175.0,2026-01-16,2026-01-31,2026-01-31,Met at Davos 2025
+POT-2026-063,21Shares,I. Andersson,andersson@21shares.com,Referral,Speaker,Proposal Sent,0.0,2025-10-20,2025-10-22,2025-11-07,Needs board approval
+POT-2026-064,StarkWare,M. Chen,chen@starkware.com,Referral,Speaker,Lead,0.0,2025-11-09,2025-12-12,2026-01-24,Budget approval pending
+POT-2026-065,Avalanche Labs,D. Okafor,d.@avalanche.com,Email Campaign,Delegate,Closed Lost,3467.0,2026-01-03,2026-01-31,2026-01-31,"Very engaged, quick responses"

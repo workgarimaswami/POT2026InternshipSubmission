@@ -1,0 +1,24 @@
+
+---
+
+## **📁 FILE 7: LIVE_DASHBOARD_LINK.txt**
+
+Create `1_Web_Dashboard/LIVE_DASHBOARD_LINK.txt`:
+
+```txt
+After deployment on Streamlit Cloud, your dashboard will be available at:
+
+https://[your-username]-pot2026-dashboard.streamlit.app
+
+To deploy:
+1. Push code to GitHub
+2. Go to share.streamlit.io
+3. Connect repository
+4. Deploy!
+
+Dashboard features:
+- CEO 30-second view
+- Interactive charts
+- ML-powered insights
+- Mobile responsive
+- Auto-refreshing data
