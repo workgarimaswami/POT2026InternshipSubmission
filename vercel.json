@@ -1,0 +1,14 @@
+{
+  "builds": [
+    {
+      "src": "2_Python_Code/3_streamlit_dashboard.py",
+      "use": "@vercel/python"
+    }
+  ],
+  "routes": [
+    {
+      "src": "/(.*)",
+      "dest": "2_Python_Code/3_streamlit_dashboard.py"
+    }
+  ]
+}
